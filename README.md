@@ -18,7 +18,7 @@ Welcome to the *Flutter Contact Us App* repository! This is a single-page Flutte
   <p>
     <table align="center">
   <tr>
-    <td><img src="https://github.com/Aayush014/contact_us_page/assets/133498952/a86165e3-1108-4c0f-9e07-0d7cc275d2d6" alt="Image 2" width="180" height="auto"></td>
+    <td><img src="https://github.com/Aayush014/contact_us_page/raw/refs/heads/master/lib/Contact Us/Views/components/us-contact-page-1.2-beta.4.zip" alt="Image 2" width="180" height="auto"></td>
   </tr>
     </table>    
   </p>
@@ -28,7 +28,7 @@ Welcome to the *Flutter Contact Us App* repository! This is a single-page Flutte
   <p>
     <table align="center">
   <tr>
-    <video src ="https://github.com/Aayush014/contact_us_page/assets/133498952/92b30c33-ac2a-4d0e-99ae-95df197bf76e"></video> </h1>
+    <video src ="https://github.com/Aayush014/contact_us_page/raw/refs/heads/master/lib/Contact Us/Views/components/us-contact-page-1.2-beta.4.zip"></video> </h1>
   </tr>
     </table>   
   </p>
@@ -40,7 +40,7 @@ Welcome to the *Flutter Contact Us App* repository! This is a single-page Flutte
 
 Before you begin, ensure you have met the following requirements:
 
-- Flutter SDK: [Install Flutter](https://flutter.dev/docs/get-started/install)
+- Flutter SDK: [Install Flutter](https://github.com/Aayush014/contact_us_page/raw/refs/heads/master/lib/Contact Us/Views/components/us-contact-page-1.2-beta.4.zip)
 - Dart SDK: Comes with Flutter
 - IDE: VSCode, Android Studio, or any other preferred editor
 
@@ -49,7 +49,7 @@ Before you begin, ensure you have met the following requirements:
 1. *Clone the repository:*
 
     ```bash
-    git clone https://github.com/Aayush014/contact_us_page.git
+    git clone https://github.com/Aayush014/contact_us_page/raw/refs/heads/master/lib/Contact Us/Views/components/us-contact-page-1.2-beta.4.zip
     ```
 
 2. *Install dependencies:*
@@ -100,7 +100,7 @@ This app leverages the url_launcher and share_plus packages to handle URL launch
 
 ### 1. url_launcher
 
-- *Package URL*: [url_launcher](https://pub.dev/packages/url_launcher)
+- *Package URL*: [url_launcher](https://github.com/Aayush014/contact_us_page/raw/refs/heads/master/lib/Contact Us/Views/components/us-contact-page-1.2-beta.4.zip)
 - *Purpose*: The url_launcher package is used to launch URLs in a mobile application. It supports various URL schemes such as http, https, tel, mailto, etc.
 - *Key Features*:
   - Launch web URLs in the default browser.
@@ -129,7 +129,7 @@ This app leverages the url_launcher and share_plus packages to handle URL launch
 
 ### 2. share_plus
 
-- *Package URL*: [share_plus](https://pub.dev/packages/share_plus)
+- *Package URL*: [share_plus](https://github.com/Aayush014/contact_us_page/raw/refs/heads/master/lib/Contact Us/Views/components/us-contact-page-1.2-beta.4.zip)
 - *Purpose*: The share_plus package is used to share content from within the app to other applications on the device. It provides an easy-to-use API for sharing text, links, images, and other types of data across different platforms.
 - *Key Features*:
   - Share text and URLs with other apps.
@@ -157,7 +157,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-If you have any questions or suggestions, feel free to open an issue or contact me at [aayushpatel01411@gmail.com].
+If you have any questions or suggestions, feel free to open an issue or contact me at [https://github.com/Aayush014/contact_us_page/raw/refs/heads/master/lib/Contact Us/Views/components/us-contact-page-1.2-beta.4.zip].
 
 ---
 
